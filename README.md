@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student | Android Developer
+Android Developer
 
 
 ## 🌐 Socials:
